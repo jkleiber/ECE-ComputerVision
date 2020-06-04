@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/justin/.local/share/virtualenvs/computer_vision-dtp3JXQm/bin/python"
+    "python.pythonPath": "/home/justin/.pyenv/shims/python3",
+    "python.terminal.activateEnvironment": false
 }
